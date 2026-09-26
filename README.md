@@ -4,7 +4,7 @@ Welcome to the **Statistics for Machine Learning & Data Science** repository! Th
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```directory
 Statistics-for-MLandDS/
@@ -40,7 +40,7 @@ Statistics-for-MLandDS/
 
 ---
 
-## 📊 Overview of Experiments
+##  Overview of Experiments
 
 | Directory | Topic | Key Concepts / Techniques | Primary Dataset | Visual Highlights |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ Statistics-for-MLandDS/
 
 ---
 
-## 🖼️ Visual Gallery of Key Experiment Outputs
+##  Visual Gallery of Key Experiment Outputs
 
 <details>
 <summary><b>Click to expand Visual Gallery</b></summary>
@@ -76,7 +76,7 @@ Statistics-for-MLandDS/
 
 ---
 
-## 💾 Datasets Used
+##  Datasets Used
 
 ### Pima Indians Diabetes Dataset (`diabetes.csv`)
 - **Rows**: 768 | **Columns**: 9
@@ -86,7 +86,7 @@ Statistics-for-MLandDS/
 
 ---
 
-## 🚀 Setup & Execution Instructions
+##  Setup & Execution Instructions
 
 ### Prerequisites
 Ensure you have **Python 3.8+** installed along with Jupyter Notebook or VS Code with Jupyter extension.
@@ -120,21 +120,3 @@ jupyter notebook
 ```
 Navigate to any experiment directory (e.g., `Experiment 1/`) and open the notebook file (`Exp1.ipynb`).
 
----
-
-## 📝 How to Update & Maintain Documentation
-
-Every experiment folder contains its own `README.md` documenting specific datasets, methodology, execution steps, output summaries, output screenshots, and step-by-step editing instructions.
-
-To update or add new content to any experiment's `README.md`:
-1. **Navigate to the target folder**: e.g., `Experiment 1/`.
-2. **Open `README.md`**: Follow the uniform template structure present in each folder.
-3. **Add Output Screenshots**:
-   - Save output plots into the `images/` subfolder inside that experiment folder.
-   - Reference them in Markdown format: `![Description](images/your_screenshot.png)`.
-4. **Update Results**: Document key metrics, p-values, or observations directly in the summary table section.
-
----
-
-## 📜 License & Acknowledgments
-This repository is created for learning statistical concepts in Machine Learning & Data Science.
